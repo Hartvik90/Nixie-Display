@@ -6,3 +6,4 @@ Link to PCB:
 http://workspace.circuitmaker.com/Projects/Details/Hartvik-Line/Nixie-Display
 
 Link to GrabCad:
+https://grabcad.com/library/nixie-display-1
